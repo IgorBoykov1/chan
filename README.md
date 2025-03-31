@@ -7,9 +7,9 @@
 ##Структура проекта
 
 `📁chan--|
-        📁|--bootstrap-5.3.3-dist
-          📁|site_with_column
-            👾|--index.html
+        -📁|--bootstrap-5.3.3-dist
+          -📁|site_with_column
+            -👾|--index.html
             📁|2list
             📁|style
             📁|PNG`
